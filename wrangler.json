@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "bosstimerapi",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b7c08862-8c26-4878-a2c0-01108301fe07",
+      "database_name": "db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
